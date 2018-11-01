@@ -1,6 +1,7 @@
 # ConsumerGraph
 
 [![Build Status](https://travis-ci.org/ApplauseOSS/ConsumerGraph.svg?branch=master)](https://travis-ci.org/ApplauseOSS/ConsumerGraph)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FApplauseOSS%2FConsumerGraph.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FApplauseOSS%2FConsumerGraph?ref=badge_shield)
 
 A small utility to browse Kafka topic-to-consumer relationships. Each node is collapsible.
 
@@ -57,3 +58,7 @@ This was built/tested using the following versions.
 | Docker | `17.03.0-ce, build 60ccb22` |
 | Java | `1.8.0_121` |
 | Kafka | `0.10.1.0` |
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FApplauseOSS%2FConsumerGraph.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FApplauseOSS%2FConsumerGraph?ref=badge_large)
